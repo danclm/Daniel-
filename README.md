@@ -1,2 +1,1 @@
-# Daniel-
-Ur snitchin
+print("Hello worddl")
